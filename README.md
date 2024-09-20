@@ -1,5 +1,5 @@
 # Byron Molette
-![Me](images/mecirclejpg.jpg)
+![Me](images/mecircle2.png)
 
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
