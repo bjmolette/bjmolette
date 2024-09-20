@@ -1,22 +1,28 @@
-# Byron Molette
+# Portfolio
 ![Me](images/mecircle2.png)
 
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Certifications
+- CompTIA Security+
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Owner/Operator @ Professor Pressure LLC (_July 2022 - Present_)**
+- Successfully established and managed a pressure washing business, overseeing marketing, client relations, scheduling, and financial management. 
+- Handled administrative tasks including invoicing, bookkeeping, and customer service, ensuring smooth business
+operations.
+- Utilized various marketing strategies to grow the client base, resulting in a 110% revenue increase in the first year.
+Maintained excellent relationships with clients through effective communication and timely service delivery.
+-Provided high-quality exterior cleaning services, ensuring thorough and meticulous cleaning for residential and
+commercial properties.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+
+**Delivery Driver @ FedEx Ground (_September 2020 - June 2022_)**
+- Ensured the timely and safe delivery of packages to businesses and residences, maintaining a high
+level of customer satisfaction and adhering to company standards for delivery times. 
+- Efficiently loaded and unloaded items from delivery vehicles, ensuring that all packages were handled with care and
+transported securely.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
