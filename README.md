@@ -1,5 +1,6 @@
-# Data Scientist
-![EEG Band Discovery](/images/Me.jpg)
+# Byron Molette
+<img src="/images/ME Circle PNG.png" alt="Me" width="400"/>
+
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
