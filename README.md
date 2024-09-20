@@ -6,7 +6,18 @@
 
 ## Certifications
 - CompTIA Security+
-
+  
+## Skills
+  -Experience with VMware and Oracle
+  - PC, Linux, and Mac Operating Systems
+  - Malware Threat Detection/Removal
+  - Microsoft Office Suite
+  - Microsoft defender Antivirus
+  - Active Directory
+  - Event Viewer
+  - SIEM (Splunk)
+  - 
+VM Virtualbox
 ## Work Experience
 **Owner/Operator @ Professor Pressure LLC (_July 2022 - Present_)**
 - Successfully established and managed a pressure washing business, overseeing marketing, client relations, scheduling, and financial management. 
