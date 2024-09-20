@@ -1,5 +1,5 @@
 # Data Scientist
-![EEG Band Discovery](/images/me.jpg)
+![EEG Band Discovery](/images/Me.jpg)
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
