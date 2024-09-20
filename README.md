@@ -1,5 +1,5 @@
 # Byron Molette
-<img src="/images/mecirclejpg.jpg" alt="Me" width="400"/>
+![Me](images/mecirclejpg.jpg)
 
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
