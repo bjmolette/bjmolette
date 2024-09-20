@@ -16,8 +16,8 @@
   - Active Directory
   - Event Viewer
   - SIEM (Splunk)
-  - 
-VM Virtualbox
+  - Virtual Machines
+
 ## Work Experience
 **Owner/Operator @ Professor Pressure LLC (_July 2022 - Present_)**
 - Successfully established and managed a pressure washing business, overseeing marketing, client relations, scheduling, and financial management. 
