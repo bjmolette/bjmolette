@@ -1,5 +1,5 @@
 # Byron Molette
-<img src="/images/mecircle.png" alt="Me" width="400"/>
+<img src="/images/mecirclejpg.jpg" alt="Me" width="400"/>
 
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
