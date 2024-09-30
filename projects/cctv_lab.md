@@ -21,11 +21,11 @@ This lab outlines the process of configuring secure remote access for a home CCT
 
 ## Lab Steps
 
-   ### 1. Log in to the Router Settings
+   *** 1. Log in to the Router Settings
    - Open your browser and go to your router’s configuration page (typically `192.168.1.1` or `192.168.0.1`).
    - Log in using the admin credentials.
 
-   ### 2. Configure Port Forwarding
+   ## 2. Configure Port Forwarding
    - Navigate to the **Port Forwarding** or **Virtual Server** settings.
    - Create a new rule:
      - **Service Name**: CCTV Remote Access
