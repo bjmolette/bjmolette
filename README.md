@@ -36,7 +36,7 @@ level of customer satisfaction and adhering to company standards for delivery ti
 transported securely.
 
 ## Projects
-### [Secure Remote Access Configuration for Home CCTV System](cctv_lab.md)
+### [Secure Remote Access Configuration for Home CCTV System](projects/cctv_lab.md)
 This project focuses on configuring and securing remote access for a home CCTV system by properly setting up port forwarding, understanding protocol differences (TCP/UDP), and assessing security implications. Additionally, we optimize NTP settings for time synchronization accuracy on the NVR.
 
 ## Talks & Lectures
