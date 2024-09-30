@@ -15,8 +15,8 @@ This lab outlines the process of configuring secure remote access for a home CCT
 - Tools: Web browser, router admin login, NVR/CCTV system.
 
 ## Lab Setup
-1. **CCTV System**: Swagtron Swagdrone 210 UP (or any compatible NVR system).
-2. **Router**: Model X (ensure you have admin access).
+1. **CCTV System**: Reolink RLN8-410 8-Channel NVR (or any compatible NVR system).
+2. **Router**: (info hidden for security reasons) (ensure you have admin access).
 3. **Network Details**: IP address for NVR, router configuration page.
 
 ## Lab Steps
