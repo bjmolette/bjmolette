@@ -21,11 +21,11 @@ This lab outlines the process of configuring secure remote access for a home CCT
 
 ## Lab Steps
 
-1. ### Log in to the Router Settings
+   ### 1. Log in to the Router Settings
    - Open your browser and go to your router’s configuration page (typically `192.168.1.1` or `192.168.0.1`).
    - Log in using the admin credentials.
 
-2. ### Configure Port Forwarding
+   ### 2. Configure Port Forwarding
    - Navigate to the **Port Forwarding** or **Virtual Server** settings.
    - Create a new rule:
      - **Service Name**: CCTV Remote Access
@@ -35,7 +35,7 @@ This lab outlines the process of configuring secure remote access for a home CCT
      - **Internal IP**: [NVR’s local IP address]
      - **Enable Rule**: Yes
 
-3. ### Enable NTP Time Synchronization on the NVR
+   ### 3. Enable NTP Time Synchronization on the NVR
    - Log into your NVR’s settings panel.
    - Go to **System** > **NTP Settings**.
    - Configure the following:
@@ -44,11 +44,11 @@ This lab outlines the process of configuring secure remote access for a home CCT
      - **Synchronization Interval**: 3600 seconds (1 hour)
    - Save and apply the settings.
 
-4. ### Verify the Setup
+   ### 4. Verify the Setup
    - Open a browser on a remote device and navigate to `http://[PublicIP]:12345`.
    - Ensure that you can view the live feed and that timestamps are accurate.
 
-5. ### Security Assessment
+   ### 5. Security Assessment
    - Identify open ports using `nmap` or a similar tool to ensure only the necessary ports are open.
    - Implement strong passwords and disable unnecessary services like Telnet if present.
 
