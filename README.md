@@ -6,6 +6,7 @@
 
 ## Certifications
 - CompTIA Security+
+- Google IT Support Certificate
   
 ## Skills
   -Experience with VMware and Oracle
