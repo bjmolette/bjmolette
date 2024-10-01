@@ -14,8 +14,8 @@
   - Microsoft Office Suite
   - Microsoft defender Antivirus
   - Active Directory
-  - Event Viewer
-  - SIEM (Splunk)
+  - TCP/IP
+  - CCTV
   - Virtual Machines
 
 ## Work Experience
