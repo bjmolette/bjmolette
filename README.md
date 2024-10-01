@@ -2,7 +2,7 @@
 ![Me](images/MeCloseUp.png)
 
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Objective: A dedicated and detail-oriented IT professional with expertise in network security, endpoint management, and technical troubleshooting. Seeking to leverage hands-on experience and problem-solving skills to contribute innovative solutions and showcase technical projects that demonstrate proficiency in cybersecurity and system management.
 
 ## Certifications
 - CompTIA Security+
@@ -17,7 +17,7 @@
   - Active Directory
   - TCP/IP
   - CCTV
-  - Virtual Machines
+  - Hardware/Software
 
 ## Work Experience
 **Owner/Operator @ Professor Pressure LLC (_July 2022 - Present_)**
