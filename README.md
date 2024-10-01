@@ -1,5 +1,5 @@
 # Portfolio
-![Me](images/mecircle2.png)
+![Me](images/MeCloseUp.png)
 
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
