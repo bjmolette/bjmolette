@@ -21,6 +21,11 @@
   - CCTV
   - Hardware/Software
 
+## Projects
+### [Secure Remote Access Configuration for Home CCTV System](projects/cctv_lab.md)
+This project focuses on configuring and securing remote access for a home CCTV system by properly setting up port forwarding, understanding protocol differences (TCP/UDP), and assessing security implications. Additionally, we optimize NTP settings for time synchronization accuracy on the NVR.
+
+
 ## Work Experience
 
 **Owner/Operator @ Professor Pressure LLC (_June 2022 - Present_)**
@@ -68,9 +73,4 @@
 - Provided support to team members and performed other duties as assigned, contributing to a collaborative and efficient work environment.  
 - Specialized in detecting and removing malware from customer devices, including threats introduced through phishing attacks and other malicious activities.  
 - Provided customers with guidance on best practices for protecting their systems from future threats, ensuring their devices remained secure and functional.  
-
-
-## Projects
-### [Secure Remote Access Configuration for Home CCTV System](projects/cctv_lab.md)
-This project focuses on configuring and securing remote access for a home CCTV system by properly setting up port forwarding, understanding protocol differences (TCP/UDP), and assessing security implications. Additionally, we optimize NTP settings for time synchronization accuracy on the NVR.
 
