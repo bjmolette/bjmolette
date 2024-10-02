@@ -25,7 +25,7 @@
 ### [Secure Remote Access Configuration for Home CCTV System](projects/cctv_lab.md)
 This project focuses on configuring and securing remote access for a home CCTV system by properly setting up port forwarding, understanding protocol differences (TCP/UDP), and assessing security implications. Additionally, we optimize NTP settings for time synchronization accuracy on the NVR.
 
-### [Packet Tracing Network Communication Using Cisco Packet Tracer](projects/tcp_ip_lab)
+### [Packet Tracing Network Communication Using Cisco Packet Tracer](projects/tcp_ip_lab.md)
 This project demonstrates the process of tracking network communication through a simulated environment using Cisco Packet Tracer. By analyzing the journey of an HTTP packet from a client to a web server, we explore encapsulation and de-encapsulation at each OSI layer. The lab also focuses on understanding the function of each layer in packet transmission and highlights key processes such as IP routing, MAC address forwarding, and protocol-specific behaviors like TCP's reliability mechanisms.
 
 ## Work Experience
